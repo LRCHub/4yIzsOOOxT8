@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アンメルト・アンブレラ",
+  "base_artist": "明透",
+  "createdAt": "2026-02-14T08:56:42.981250Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンメルト・アンブレラ",
+      "artist": "明透",
+      "has_synced": true,
+      "path": "select/01_アンメルト・アンブレラ_明透.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンメルト・アンブレラ",
+      "artist": "asu",
+      "has_synced": true,
+      "path": "select/02_アンメルト・アンブレラ_asu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンメルト・アンブレラ",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_アンメルト・アンブレラ_明透.txt"
+    }
+  ]
+}
